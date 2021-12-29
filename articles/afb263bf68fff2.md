@@ -1,5 +1,5 @@
 ---
-title: "Pythonの整数型がどのように実装されているか"
+title: "Pythonの整数型はどのように実装されているのか"
 emoji: "📚"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Python", "翻訳"]
