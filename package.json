@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "zenn-cli": "^0.1.148"
+    "zenn-cli": "^0.1.153"
   },
   "name": "zenn",
   "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
